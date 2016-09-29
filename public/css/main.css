@@ -5,3 +5,8 @@ h1#timer {
 #start {
   font-size: 700%;
 }
+
+#break {
+  font-size: 700%;
+  display: none;
+}
